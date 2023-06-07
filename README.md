@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Patience is the best skill to have for a developer</h2></summary>
+    <summary><h2 style="display: inline-block">Patience is the most important skill for a developer</h2></summary>
   </ul>
 </div>
 
