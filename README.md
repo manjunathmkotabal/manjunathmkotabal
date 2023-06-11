@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🌱 I’m a final year B.Tech student at PES university Banglore,India
+- 🌱 I’m a final year B.Tech student at PES University Banglore,India
 
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, transformers, django**
+- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, LLMS, django**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications and builfing llms**
 
