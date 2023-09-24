@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Getting started is the best</h2></summary>
+    <summary><h2 style="display: inline-block">Pursuing the art of Engineering </h2></summary>
   </ul>
 </div>
 
@@ -27,13 +27,13 @@
 <!--Intro start-->
 - 🌱 I’m a final year B.Tech student at PES University Banglore,India
 
-- 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, LLMS, django**
+- 🔭 I’m currently working on **Scalable systems and Performance optimization**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications and builfing llms**
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications and building llms**
 
-- ☁️ I've keen interest in cloud computing and AI and Humans So,I'm learning **AWS** and **transformers**
-
-- 💬 Ask me about **AWS, react, Transformers, nodejs, mongoDB, AI**
+- ☁️ I've keen interest in cloud computing and AI and Humans
+  
+- 💬 Ask me about **Golang, Data security, AWS, react, nodejs, mongoDB, AI**
 
 - 📫 Feel free to reach me out **manjunathmkotabal99@gmail.com**
 
