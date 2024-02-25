@@ -25,19 +25,18 @@
 
 
 <!--Intro start-->
-- 🌱 I’m a final year B.Tech student at PES University Banglore,India
+- 🌱 I’m an engineering intern at AiDash, India
 
 - 🔭 I’m currently working on **Scalable systems and Performance optimization**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications and building llms**
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
 - ☁️ I've keen interest in cloud computing and AI and Humans
   
-- 💬 Ask me about **Golang, Data security, AWS, react, nodejs, mongoDB, AI**
+- 💬 Ask me about **Golang, Data security, AWS, react, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **manjunathmkotabal99@gmail.com**
 
-- 💞️ I’m looking to collaborate on any open source projects.
 
 <!--Intro end-->
 
@@ -72,14 +71,9 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,docker,kubernetes,dynamodb,express,figma,firebase,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14,java,bash,cassandra,django,jenkins,nginx,rabbitmq,tensorflow" />
-  </a>
-</p> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,kubernetes,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,bash,cassandra,django,jenkins,nginx,rabbitmq,tensorflow,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,kubernetes,docker,dynamodb,express,firebase,github,java,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,bash,cassandra,django,jenkins,rabbitmq&perline=14" />
   </a>
 </p>
 
