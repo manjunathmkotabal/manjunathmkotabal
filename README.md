@@ -8,14 +8,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,15 +17,15 @@
 
 
 <!--Intro start-->
-- 🌱 I’m an engineering intern at AiDash, India
+- 🌱 I’m a Devops Engineer at AiDash, India
 
-- 🔭 I’m currently working on **Scalable systems and Performance optimization**
+- 🔭 I’m currently working on **Scalable systems on Kubernetes and Infrastructure as code and Devops in general**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications**
 
 - ☁️ I've keen interest in cloud computing and AI and Humans
   
-- 💬 Ask me about **Golang, Data security, AWS, react, nodejs, mongoDB**
+- 💬 Ask me about **Golang, Data security, AWS, Devops, nodejs**
 
 - 📫 Feel free to reach me out **manjunathmkotabal99@gmail.com**
 
